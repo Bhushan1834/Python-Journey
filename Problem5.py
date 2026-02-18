@@ -6,7 +6,8 @@ Q5.Write a python function to print first n lines of the following pattern.
 '''
 
 def pattern(n):
-    for i in range(n, 0, -1):
-        print("*" * i)
-        
-pattern(3)
+    if(n==0):
+        return
+    print("*"*n)
+    pattern(n-1)  
+pattern(5)
