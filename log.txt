@@ -1,0 +1,1 @@
+loren435Python is a high-level, interpreted programming language known for its simple, readable syntax and versatility. Created in 1991 by Guido van Rossum, it supports multiple paradigms—including object-oriented and functional—and is widely used for web development, data science, AI, and automation.
